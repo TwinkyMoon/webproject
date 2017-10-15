@@ -1,0 +1,10 @@
+com\uptotech\server_tutor\service\TestService.class
+com\uptotech\server_tutor\dao\TestDAO.class
+com\uptotech\server_tutor\config\core\SpringMvcInitializer.class
+com\uptotech\server_tutor\web\contoller\MyRestController.class
+com\uptotech\server_tutor\dao\imp\TestDAOImpl.class
+com\uptotech\server_tutor\model\EnglishWord.class
+com\uptotech\server_tutor\config\Config.class
+com\uptotech\server_tutor\service\TestServiceImpl.class
+com\uptotech\server_tutor\model\EnglishCategory.class
+com\uptotech\server_tutor\web\contoller\BaseController.class
